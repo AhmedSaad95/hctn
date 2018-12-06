@@ -23,7 +23,7 @@ map_tn <- function() {
 
   #read data
   library(readxl)
-  data_med <- read_excel("data.xlsx")
+  data_med <- read_excel("https://github.com/AhmedSaad95/hctn/blob/master/data.xlsx")
   #import map
   library(raster)
   m_gouv<- getData(name="GADM",  country="TUN", level=1)
