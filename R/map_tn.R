@@ -22,8 +22,8 @@ map_tn <- function() {
   library(RColorBrewer)
 
   #read data
-  library(readxl)
-  data_med <- read_excel("https://github.com/AhmedSaad95/hctn/blob/master/data.xlsx")
+  #library(readxl)
+  data_med <- read_csv("https://raw.githubusercontent.com/AhmedSaad95/hctn/master/R/data.csv")
   #import map
   library(raster)
   m_gouv<- getData(name="GADM",  country="TUN", level=1)
