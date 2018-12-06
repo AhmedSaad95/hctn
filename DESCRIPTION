@@ -1,0 +1,13 @@
+Package: hctn
+Type: Package
+Title: MAP that present the healthcare situation of Tunisia 
+Version: 0.1.0
+Author: Ahmed SAAD
+Maintainer: Ahmed SAAD <ahmedsaad.ze@gmail.com>
+Description: This package allow you to see from a Shiny application the distribuation of variables (nb of beds , nbr of doctors ,...) thanks to an interactive MAP of Tunisia.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+
+
