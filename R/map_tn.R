@@ -24,6 +24,7 @@ map_tn <- function() {
   #read data
   #library(readxl)
   data_med <- read_csv("https://raw.githubusercontent.com/AhmedSaad95/hctn/master/R/data.csv")
+  data_med = data_med[,2:length(data_med)]
   #import map
   library(raster)
   m_gouv<- getData(name="GADM",  country="TUN", level=1)
