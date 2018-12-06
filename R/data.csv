@@ -1,0 +1,25 @@
+"","regions","HASC_1","Doctors","Paramedical staff","Practice Cabinets","Number of beds","Regional hospitals"
+"1","Gouvernorat de Tunis","TN.TU",3787,6855,1929,4115,1
+"2","Gouvernorat de L'Ariana","TN.AN",848,988,573,516,1
+"3","Gouvernorat de Ben Arous","TN.BA",681,1138,496,353,1
+"4","Gouvernorat de Manouba","TN.MN",350,1260,170,970,NA
+"5","Gouvernorat de Nabeul","TN.NB",790,1958,539,998,2
+"6","Gouvernorat de Zaghouan","TN.ZA",160,568,60,495,1
+"7","Gouvernorat de Bizerte","TN.BZ",585,1812,317,953,1
+"8","Gouvernorat de Bèja","TN.BJ",255,1189,115,581,2
+"9","Gouvernorat de Jendouba","TN.JE",257,1416,102,694,2
+"10","Gouvernorat du Kef","TN.KF",201,1176,68,611,1
+"11","Gouvernorat de Siliana","TN.SL",156,832,29,391,1
+"12","Gouvernorat de Sousse","TN.SS",1180,3022,618,1460,1
+"13","Gouvernorat de Monastir","TN.MS",751,2270,380,1177,2
+"14","Gouvernorat de Mahdia","TN.MH",368,1362,179,652,NA
+"15","Gouvernorat de Sfax","TN.SF",1790,3212,1120,1735,3
+"16","Gouvernorat de Kairouan","TN.KR",357,1700,177,715,NA
+"17","Gouvernorat de Kasserine","TN.KS",290,1238,79,541,1
+"18","Gouvernorat de Sidi Bouzid","TN.SZ",181,1106,73,440,1
+"19","Gouvernorat de Gabès","TN.GB",357,1253,157,675,1
+"20","Gouvernorat de Medenine","TN.ME",502,1480,310,774,4
+"21","Gouvernorat de Tataouine","TN.TA",88,639,25,259,1
+"22","Gouvernorat de Gafsa","TN.GF",303,1624,99,744,2
+"23","Gouvernorat de Tozeur","TN.TO",118,642,23,340,2
+"24","Gouvernorat de Kébili","TN.KB",152,776,37,299,1
