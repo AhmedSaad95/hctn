@@ -20,6 +20,7 @@ map_tn <- function() {
   library(DT)
   library(leaflet)
   library(RColorBrewer)
+  library(readr)
 
   #read data
   #library(readxl)
