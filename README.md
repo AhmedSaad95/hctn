@@ -1,4 +1,4 @@
-# hctn
+# Package : "hctn"
 ## Description
 This package allow you to see from a Shiny application the distribuation of variables (nb of beds , nbr of doctors ,...) thanks to an interactive MAP of Tunisia.
 
@@ -30,7 +30,7 @@ The Output of this Function is a Shiny Application that contain MAP that present
 ```
 map_tn()
 ```
-## capture
+## Capture
 <p align="center">
 <img src="Capture2.PNG" width="800">
 </p>
