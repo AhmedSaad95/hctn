@@ -1,6 +1,6 @@
 # Package : "hctn"
 ## Description
-This package allow you to see from a Shiny application the distribuation of variables (nb of beds , nbr of doctors ,...) thanks to an interactive MAP of Tunisia.
+This package allows you to see from a Shiny application the distribuation of variables (nb of beds , nbr of doctors ,...) thanks to an interactive MAP of Tunisia.
 
 ## Installation 
 1- First, you need to install the devtools package. You can do this from CRAN. Invoke R and then type
@@ -16,7 +16,7 @@ library(devtools)
 install_github("AhmedSaad95/hctn")
 ```
 ## Dependencies
-This list contain the packages that my package needs to work
+This list contains the packages that my package needs to work
 ```
 library(shiny)
 library(shinythemes)
@@ -26,7 +26,7 @@ library(RColorBrewer)
 library(readr)
 ```
 ## map_tn Function
-The Output of this Function is a Shiny Application that contain MAP that present the healthcare situation of Tunisia
+The Output of this Function is a Shiny Application that contains MAP that present the healthcare situation of Tunisia
 ```
 map_tn()
 ```
