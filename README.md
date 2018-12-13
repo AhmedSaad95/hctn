@@ -16,6 +16,7 @@ library(devtools)
 install_github("AhmedSaad95/hctn")
 ```
 ## Dependencies
+This list contain the packages that my package needs to work
 ```
 library(shiny)
 library(shinythemes)
@@ -23,6 +24,11 @@ library(DT)
 library(leaflet)
 library(RColorBrewer)
 library(readr)
+```
+## map_tn Function
+The Output of this Function is a Shiny Application that contain MAP that present the healthcare situation of Tunisia
+```
+map_tn()
 ```
 ## capture
 <p align="center">
