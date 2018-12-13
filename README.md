@@ -15,6 +15,15 @@ library(devtools)
 ```
 install_github("AhmedSaad95/hctn")
 ```
+## Dependencies
+```
+library(shiny)
+library(shinythemes)
+library(DT)
+library(leaflet)
+library(RColorBrewer)
+library(readr)
+```
 ## capture
 <p align="center">
 <img src="Capture2.PNG" width="800">
